@@ -1,0 +1,7 @@
+venv/
+visdrone/
+visdrone-dataset.zip
+__pycache__/
+.ipynb_checkpoints/
+myNotes.md
+
